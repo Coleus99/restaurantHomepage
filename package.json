@@ -1,0 +1,27 @@
+{
+  "name": "restauranthomepage",
+  "version": "1.0.0",
+  "description": "Project from https://www.theodinproject.com/lessons/restaurant-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coleus99/restaurantHomepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coleus99/restaurantHomepage/issues"
+  },
+  "homepage": "https://github.com/Coleus99/restaurantHomepage#readme",
+  "devDependencies": {
+    "webpack": "^5.3.0",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "npm-watch": "^0.7.0"
+  }
+}
