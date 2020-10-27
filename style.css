@@ -4,3 +4,11 @@ h1{
 img{
     max-width: 100%;
 }
+footer{
+    margin: 2em;
+    padding: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
