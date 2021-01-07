@@ -1,5 +1,6 @@
 # Restaurant Homepage
-Project from https://www.theodinproject.com/lessons/restaurant-page
+From Odin Project Javascript course
+[Live preview](https://coleus99.github.io/restaurantHomepage/)
 
 ## Features
 * Webpages dynamically generated via JS 
@@ -7,5 +8,3 @@ Project from https://www.theodinproject.com/lessons/restaurant-page
 ## Learning Outcomes
 * Practice using npm and webpack
 * DOM manipulation practice
-
-## Areas for Improvement
